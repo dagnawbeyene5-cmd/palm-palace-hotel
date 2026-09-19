@@ -1,0 +1,1 @@
+{"name":"palm-palace-hotel","version":"3.0.0","private":true,"description":"Palm Palace Hotel Bahir Dar booking and hotel operations system","engines":{"node":">=22.5.0"},"scripts":{"start":"node server.js","dev":"node --watch server.js"},"dependencies":{"express":"^5.1.0"}}
